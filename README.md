@@ -10,11 +10,9 @@ can determine if the first stage will land, we can determine the cost
 of a launch. Based on public information and machine learning 
 models, we are going to predict if SpaceX will reuse the first stage.
 ## :page_facing_up: Questions to be answered 
-- How do variables such as payload mass, launch site, number of 
-flights, and orbits affect the success of the first stage landing? 
-- Does the rate of successful landings increase over the years? 
-- What is the best algorithm that can be used for binary classification 
-in this case?
+- What factors determine if the rocket will land successfully?
+- The interaction amongst various features that determine the success rate of a successful landing.
+- What operating conditions needs to be in place to ensure a successful landing program.
 ## :page_facing_up: Methodology
   ### 1. Data collection methodology
   - Using SpaceX Rest API
