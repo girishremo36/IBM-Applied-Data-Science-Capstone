@@ -12,7 +12,7 @@ models, we are going to predict if SpaceX will reuse the first stage.
 ## :page_facing_up: Questions to be answered 
 - What factors determine if the rocket will land successfully?
 - The interaction amongst various features that determine the success rate of a successful landing.
-- What operating conditions needs to be in place to ensure a successful landing program.
+- What operating conditions needs to be in place to ensure a successful landing program?
 ## :page_facing_up: Methodology
   ### 1. Data collection methodology
   - Using SpaceX Rest API
